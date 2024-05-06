@@ -1,0 +1,38 @@
+_repo: Fan-fare-May-1953_73441
+_version: 0.0.1
+alternative_title: Fan-fare, May 1953
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Ganley, W. Paul (William Paul)
+    alias: Ganley, William Paul
+    birthdate: 1934
+    gutenberg_agent_id: '57070'
+    url: http://www.gutenberg.org/2009/agents/57070
+description: ''
+gutenberg_issued: '2024-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73441'
+language: en
+pgterms:marc905: 20240318070446ganley
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bSSR Publications, $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fan magazines'
+- !lcc 'PN'
+- GITenberg
+title: Fan fare, May 1953
+url: http://www.gutenberg.org/ebooks/73441
